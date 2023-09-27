@@ -1,3 +1,4 @@
 Resolusi 2024
 - Kosisten belajar web mulai dari front end hingga back end
 - Mulai dari Mevn
+- Setelah itu saya akan coba Mern
